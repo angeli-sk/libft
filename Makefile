@@ -232,4 +232,4 @@ bulbasaur:
 	@echo "";
 	@echo "";
 
-re: fclean all party
+re: fclean all
